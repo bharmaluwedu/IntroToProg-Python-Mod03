@@ -1,0 +1,1 @@
+This week is about demonstrating how to use the while loop, programming menus, conditional logic, and using the PyCharm IDE. The following information is a breakdown on how I wrote this program step-by-step.
